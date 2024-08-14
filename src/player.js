@@ -30,7 +30,7 @@ Player.defaultProps = {
   nationality: "Unknown Nationality",
   jerseyNumber: "N/A",
   age: "N/A",
-  imageUrl: "https://via.placeholder.com/150",
+  imageUrl: "https://images.unsplash.com/photo-1524748969064-cf3dabd7b84d?q=80&w=775&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 export default Player;
